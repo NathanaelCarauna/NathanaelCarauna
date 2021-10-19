@@ -1,22 +1,9 @@
-### Hey, there 👋
+### Hey there! I'm Nathanael 👋
 
+- 🔭 I’m currently working at MidiaVox ltda
+- 🌱 I’m a student of software engineering at UPE
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanaelCarauna&show_icons=true&theme=merko&custom_title='My_Github_Status')](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanaelCarauna&show_icons=true&theme=merko&custom_title='My_Github_Status')](https://github.com/anuraghazra/github-readme-stats)\n
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanaelCarauna&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
-**NathanaelCarauna/NathanaelCarauna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
