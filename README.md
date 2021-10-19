@@ -13,6 +13,9 @@
 
 ## Languages 💖
 <img align="left" with="22px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+<img align="left" with="22px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+<img align="left" with="22px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
+<img align="left" with="22px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 
 ## Tecnologies and tools 💖
 
