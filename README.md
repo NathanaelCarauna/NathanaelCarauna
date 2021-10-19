@@ -23,11 +23,11 @@
 
 ## Tecnologies and tools 💖
 <img align="left" with="22px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
-<img align="left" with="22px src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-<img align="left" with="22px src="https://img.icons8.com/office/16/000000/java-eclipse.png"/>
-<img align="left" with="22px src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-<img align="left" with="22px src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img align="left" with="22px src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img align="left" with="22px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
+<img align="left" with="22px" src="https://img.icons8.com/office/16/000000/java-eclipse.png"/>
+<img align="left" with="22px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<img align="left" with="22px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img align="left" with="22px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 </br>
 </br>
              
