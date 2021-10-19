@@ -16,9 +16,17 @@
 <img align="left" with="22px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
 <img align="left" with="22px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
 <img align="left" with="22px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+</br>
 
 ## Tecnologies and tools 💖
-
+<img align="left" with="22px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
+<img align="left" with="22px src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
+<img align="left" with="22px src="https://img.icons8.com/office/16/000000/java-eclipse.png"/>
+<img align="left" with="22px src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<img align="left" with="22px src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img align="left" with="22px src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+</br>
+                                                                                         
 ## My Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanaelCarauna&show_icons=true&theme=merko&custom_title='My_Github_Status')](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanaelCarauna&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
