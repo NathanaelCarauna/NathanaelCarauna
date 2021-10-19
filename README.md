@@ -10,6 +10,7 @@
 <a href="https://www.instagram.com/nathanaelcarauna/"><img  align="left" alt="codeStackr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 </br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanaelCarauna&show_icons=true&theme=merko&custom_title='My_Github_Status')](https://github.com/anuraghazra/github-readme-stats)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanaelCarauna&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
