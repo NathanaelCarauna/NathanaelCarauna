@@ -1,6 +1,8 @@
 ### Hey, there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanaelCarauna&show_icons=true&theme=merko&custom_title='My Github Status')](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanaelCarauna)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanaelCarauna&show_icons=true&theme=merko&custom_title='My_Github_Status')](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
