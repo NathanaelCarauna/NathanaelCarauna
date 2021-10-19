@@ -12,6 +12,7 @@
 </br>
 
 ## Languages 💖
+<img align="left" with="22px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 
 ## Tecnologies and tools 💖
 
