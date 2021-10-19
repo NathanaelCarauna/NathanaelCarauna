@@ -1,6 +1,8 @@
 ### Hey there! I'm Nathanael 👋
 
-- 🔭 I’m currently working at MidiaVox ltda
+## I'm a Husband, a Software Engineering student, and a Developer!
+
+- 🔭 I’m currently working at [MidiaVox][http://www.midiavox.com.br]
 - 🌱 I’m a student of software engineering at UPE
 - Currently I'm studying 
 
