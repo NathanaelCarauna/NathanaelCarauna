@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at <a href="http://www.midiavox.com.br" rel="nofollow">MidiaVox!</a> as a developer
 - 🌱 I’m a student of software engineering at UPE
-- 🌱 Currently I'm studying Java Spring, EcmaScript, C# and React Native
+- 🌱 Currently I'm studying Java Spring, EcmaScript, Asp Net Core and React Native
 
 ### Connect with me:
 
