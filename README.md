@@ -2,9 +2,9 @@
 
 ## I'm a Husband, a Software Engineering student, and a Developer!
 
-- 🔭 I’m currently working at <a href="http://www.midiavox.com.br" rel="nofollow">MidiaVox!</a> as a developer
-- 🌱 I’m a student of software engineering at UPE
-- 🌱 Currently I'm studying Java Spring, EcmaScript, Asp Net Core and React Native
+- 🔭 I’m currently working at <a href="http://www.midiavox.com.br" rel="nofollow">MidiaVox!</a> as a mid developer
+-  Graduated software engineering at UPE
+- Working Java Spring, EcmaScript, Asp Net Core
 
 ### Connect with me:
 
