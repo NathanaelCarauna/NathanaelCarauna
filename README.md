@@ -1,10 +1,11 @@
 ### Hey there! I'm Nathanael 👋
 
-## I'm a Husband, a Software Engineering student, and a Developer!
+## I'm a Software Engineer!
 
 - 🔭 I’m currently working at <a href="http://www.midiavox.com.br" rel="nofollow">MidiaVox!</a> as a mid developer
 -  Graduated software engineering at UPE
-- Working Java Spring, EcmaScript, Asp Net Core
+-  Master degree Student
+- Working currently with Java Spring, React and .Net
 
 ### Connect with me:
 
